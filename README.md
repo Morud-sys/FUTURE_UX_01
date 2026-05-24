@@ -6,7 +6,6 @@ A modern automotive service website redesign focused on improving usability, ser
 ## Features
 - Simplified navigation
 - Improved service organization
-- Conversion-focused booking flow
 - Clear pricing visibility
 - Responsive layouts
 - Modern service cards
